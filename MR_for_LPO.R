@@ -86,7 +86,7 @@ lposigcis_clumped <- clump_data(
 plink <- genetics.binaRies::get_plink_binary()
 plink
 http://fileserve.mrcieu.ac.uk/ld/1kg.v3.tgz
-ld_reference <- "/Users/laurabell/Documents/workdir/1kg.v3/EUR"
+ld_reference <- "/Users/User/Documents/workingdirectory/1kg.v3/EUR"
 
 head(lposigcis)
 nrow(lposigcis_exposure)
